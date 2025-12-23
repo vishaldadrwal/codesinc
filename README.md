@@ -1,5 +1,5 @@
 # codesinc
-//Printing numbers in c using recursion 
+# Printing numbers in c using recursion 
 #include <stdio.h>
 void Num(int n) {
     if (n>=1) {
